@@ -63,7 +63,7 @@
 |----------------|-------------------------------------------------------------------------------------------|-----------------------------------|
 | **LinkedIn**   | ![LinkedIn](https://img.shields.io/badge/-Abdella_Dawud-0A66C2?logo=linkedin)             | [/abdella-dawud-b50630252](https://www.linkedin.com/in/abdella-dawud-b50630252) |
 | **ResearchGate** | ![ResearchGate](https://img.shields.io/badge/-Abdella_Dawud-00CCBB?logo=researchgate)    | [/abdella-dawud](https://www.researchgate.net/profile/abdella-dawud) |
-| **Email**      | ![Email](https://img.shields.io/badge/-ibndawud606@gmail.com-EA4335?logo=gmail)           | [Send Mail](mailto:ibndawud606@gmail.com) |
+| **Email**      | ![Email](https://img.shields.io/badge/-ibndawud606@gmail.com-EA4335?logo=gmail)           | [ibndawud606@gmail.com |
 | **Twitter**    | ![Twitter](https://img.shields.io/badge/-@abdella-1DA1F2?logo=twitter)                    | [@abdella](https://twitter.com/abdella) |
 
 </div>
