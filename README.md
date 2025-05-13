@@ -2,12 +2,12 @@
 ### Software Engineer | Node js | Django-python Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AFF&width=500&lines=Node.js+Architect;Django+Expert;HPC+Specialist;AI%2FCybersecurity+Researcher" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AFF&width=500&lines=Node.js+Expert;Django-python+Expert;HPC+Specialist;AI%2FCybersecurity+Researcher" alt="Typing Animation" />
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
 **Backend Development**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -30,21 +30,7 @@
 ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### AI & HPC
-[![LLM Optimizer](https://github-readme-stats.vercel.app/api/pin/?username=abdella80&repo=llm-optimizer&theme=algolia)](https://github.com/abdella80/llm-optimizer)  
-*High-performance LLM inference framework using CUDA*
-
-### Security
-[![SecureAPI](https://github-readme-stats.vercel.app/api/pin/?username=abdella80&repo=secureapi-framework&theme=algolia)](https://github.com/abdella80/secureapi-framework)  
-*OWASP-compliant API security middleware for Node.js*
-
----
-
-## 📚 Publications & Talks
+## Publications & Talks
 
 - **"Distributed AI Computing"** - IEEE Cluster 2023 [[PDF]](#)
 - **"Node.js Performance at Scale"** - JSConf EU 2023 [[Video]](#)
@@ -53,16 +39,15 @@
 ---
 
 ## 🏆 Certifications
-
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?logo=amazonaws" height="24">
-  <img src="https://img.shields.io/badge/NVIDIA-CUDA_Developer-76B900?logo=nvidia" height="24">
-  <img src="https://img.shields.io/badge/CompTIA-Security+-007ACD?logo=comptia" height="24">
+  <img src="https://img.shields.io/badge/Udemy-Node.js_Level_Up-A435F0?logo=udemy&logoColor=white" height="24" alt="Node.js Level Up Certification">
+  <img src="https://img.shields.io/badge/FreeCodeCamp-Data_Structures_&_Algorithms-0A0A23?logo=freecodecamp&logoColor=white" height="24" alt="DSA Certification">
+ 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdella80&show_icons=true&theme=algolia&include_all_commits=true">
@@ -72,13 +57,13 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/yourprofile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/abdella-dawud-b50630252)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/abdella)
+  [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:ibndawud606@gmail.com)
+  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/abdella-dawud)
 </div>
 
 <div align="center">
