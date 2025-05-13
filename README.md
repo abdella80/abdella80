@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<h1 align="center">Hi 👋, I'm Abdella Dawud</h1>
+<h1 align="center">Hi 👋, I'm Abdella Dawud</h1
 <h3 align="center">Software Software Engineer | Node js |Django-python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdella80&label=Profile%20views&color=0e75b6&style=flat" alt="abdella80" /> </p>
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AI,HPC, cyber security**
 
-- 💬 Ask me about Fullstack web Development and software engineering **tailwinds, Django, node js,**
+- 💬 Ask me about Fullstack web Development and software engineering **tailwinds, Django, node js and etc..**
 
 - 📫 If you want to contact me, the best way is through email or LinkedIn **ibndawud606@gmail.com or www.linkedin.com/in/abdella-dawud-b50630252**
 
