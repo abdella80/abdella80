@@ -57,11 +57,14 @@
 ## Let's Connect
 
 <div align="center">
- ### 🌐 Professional Connections
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdella-dawud-b50630252)
-[![Academic Profile](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/abdella-dawud)
-[![Email Contact](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibndawud606@gmail.com?subject=GitHub%20Connection)
-[![Tech Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdella)
+### 📍 Connect With Me
+
+| Platform       | Badge                                                                                      | Username/Link                     |
+|----------------|-------------------------------------------------------------------------------------------|-----------------------------------|
+| **LinkedIn**   | ![LinkedIn](https://img.shields.io/badge/-Abdella_Dawud-0A66C2?logo=linkedin)             | [/abdella-dawud-b50630252](https://www.linkedin.com/in/abdella-dawud-b50630252) |
+| **ResearchGate** | ![ResearchGate](https://img.shields.io/badge/-Abdella_Dawud-00CCBB?logo=researchgate)    | [/abdella-dawud](https://www.researchgate.net/profile/abdella-dawud) |
+| **Email**      | ![Email](https://img.shields.io/badge/-ibndawud606@gmail.com-EA4335?logo=gmail)           | [Send Mail](mailto:ibndawud606@gmail.com) |
+| **Twitter**    | ![Twitter](https://img.shields.io/badge/-@abdella-1DA1F2?logo=twitter)                    | [@abdella](https://twitter.com/abdella) |
 
 </div>
 
