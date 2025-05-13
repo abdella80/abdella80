@@ -25,10 +25,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white)
 
-**Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![K8s](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+
 
 ## Publications & Talks
 
@@ -60,10 +57,12 @@
 ## Let's Connect
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/abdella-dawud-b50630252)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/abdella)
-  [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:ibndawud606@gmail.com)
-  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/abdella-dawud)
+ ### 🌐 Professional Connections
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdella-dawud-b50630252)
+[![Academic Profile](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/abdella-dawud)
+[![Email Contact](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibndawud606@gmail.com?subject=GitHub%20Connection)
+[![Tech Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdella)
+
 </div>
 
 <div align="center">
