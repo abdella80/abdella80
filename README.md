@@ -2,7 +2,7 @@
 ### Software Engineer | Node js | Django-python Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AFF&width=500&lines=Node.js+Expert;Django-python+Expert;HPC+Specialist;AI%2FCybersecurity+Researcher" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AFF&width=500&lines=Node.js+Expert;Django-python+Expert;HPC+Researcher;AI%2FCybersecurity+Researcher" alt="Typing Animation" />
 </div>
 
 ---
